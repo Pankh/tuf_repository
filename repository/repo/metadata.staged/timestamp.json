@@ -1,0 +1,22 @@
+{
+ "signatures": [
+  {
+   "keyid": "a45544c2d4c368826d06e99b7702db9e7c10f74d628a9b7a46930b187f54daab",
+   "method": "RSASSA-PSS",
+   "sig": "3a18c41934dbf6868892410be229d7fc17f2f8cbef912e6ee48c7347f6c07f9d5c070c76d588b49d5a9a9e17f5cc86756f0f3799a941f11424b0588fd331684ce9bdcd2abad868e821fba8c563287e2dbdb206c3df8fea39c4e434a10a8fcb309f875ea648cf75a48d5c43abaa424b14803f58477fb4ca9ac05893fd7f956abb966a8131fa70e53c2a03323301ae6c5e2d417b9e3df95b382e4c3342c2f92e3bbb7a1d12c3e528586ff71be9b24e78653985db9cf5c43e5e01371e71503c45cb4814c5bba1586124d03ecd61ca2925dd8f3d351c43741e44f8ea5fa4e6dbbe20f1ff7cb5abc7a3897f306d0716d474827205263dede2f86420e039071c380c13"
+  }
+ ],
+ "signed": {
+  "_type": "Timestamp",
+  "expires": "2030-01-01T00:00:00Z",
+  "meta": {
+   "snapshot.json": {
+    "hashes": {
+     "sha256": "90412d06e216325075ca83b208854cd91fc8e4c0a97a1f20eb8d2fae57803d01"
+    },
+    "length": 1226
+   }
+  },
+  "version": 9
+ }
+}
